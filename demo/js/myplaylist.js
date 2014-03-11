@@ -18,5 +18,16 @@ var myPlaylist = [
         price:'0.99',
         duration:'0:30',
         cover:'mix/1.png'
+    }, /* add another object */
+
+    {
+        mp3:'mix/2.mp3',
+        title: 'Sample 2',
+        artist: 'Unknown',
+        rating: 3,
+        buy: '#',
+        price: '0.99',
+        duration: '0:30',
+        cover:''
     }
 ];
